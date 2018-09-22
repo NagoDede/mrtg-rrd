@@ -48,6 +48,9 @@ For the non expert, here a summary:
 
 For the MRTG installation and configuration, you could refer to the MRTG website [https://www.fi.muni.cz/~kas/mrtg-rrd/](https://www.fi.muni.cz/~kas/mrtg-rrd/)
 
+If everythink is well done, you dhould have access to the page through the adress http://yourserver/cgi-bin/mrtg-rrd.cgi
+
+
  
 
 
