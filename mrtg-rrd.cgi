@@ -26,12 +26,9 @@
 ##############################################################
 #Modifications: 
 # 1- Perl Update Correction
-# in row
-# 	return @{$target->{args}} if @{$target->{args}};
-# and row
-#	if (@{$directories{$dir}{subdir}}) {
-#
 # 2- Display in single column instead of two
+# 3- Change the footers
+##############################################################
 
 
 use strict;
